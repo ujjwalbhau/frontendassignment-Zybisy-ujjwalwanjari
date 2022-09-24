@@ -1,0 +1,2 @@
+This is a Frontend assignment for Zybisy made by Ujjwal Wanjari Newton school optimus batch the project is deployed using netlify and live URL is follow:
+https://luxury-malabi-540462.netlify.app/
